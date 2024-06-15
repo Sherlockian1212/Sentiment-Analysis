@@ -1,0 +1,83 @@
+{
+    "defaults": {
+        "colours": {
+            "normal_bg": "#FFFFFF",
+            "hovered_bg": "#E0E0E0",
+            "disabled_bg": "#DDDDDD",
+            "selected_bg": "#BDBDBD",
+            "dark_bg": "#B0B0B0",
+            "normal_text": "#333333",
+            "hovered_text": "#000000",
+            "selected_text": "#000000",
+            "disabled_text": "#666666",
+            "link_text": "#1976D2",
+            "link_hover": "#1E88E5",
+            "link_selected": "#8E24AA",
+            "text_shadow": "#FFFFFF",
+            "normal_border": "#DDDDDD",
+            "hovered_border": "#B0B0B0",
+            "disabled_border": "#AAAAAA",
+            "selected_border": "#808080",
+            "active_border": "#808080",
+            "filled_bar": "#F44336",
+            "unfilled_bar": "#CCCCCC"
+        }
+    },
+
+    "button": {
+        "colours": {
+            "normal_bg": "#1976D2",
+            "hovered_bg": "#004C99",
+            "disabled_bg": "#BBDEFB",
+            "selected_bg": "#1565C0",
+            "active_bg": "#1565C0",
+            "dark_bg": "#0D47A1",
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "selected_text": "#FFFFFF",
+            "disabled_text": "#666666",
+            "active_text": "#FFFFFF",
+            "normal_border": "#1976D2",
+            "hovered_border": "#1E88E5",
+            "disabled_border": "#BBDEFB",
+            "selected_border": "#1565C0",
+            "active_border": "#1565C0"
+        },
+        "misc": {
+            "tool_tip_delay": "1.5"
+        }
+    },
+
+    "@friendly_buttons": {
+        "misc": {
+            "shadow_width": "5",
+            "shape": "rounded_rectangle"
+        }
+    },
+
+    "#hello_button": {
+        "misc": {
+            "text_horiz_alignment": "center"
+        }
+    },
+
+    "label": {
+        "colours": {
+            "dark_bg": "#FFFFFF",
+            "normal_text": "#000000",
+            "text_shadow": "#FFFFFF"
+        },
+        "font": {
+            "name": "Arial",
+            "size": "20",
+            "bold": "1",
+            "italic": "0"
+        },
+        "misc": {
+            "text_shadow": "1",
+            "text_shadow_size": "1",
+            "text_shadow_offset": "0,1",
+            "text_horiz_alignment": "left"
+        }
+    }
+}
